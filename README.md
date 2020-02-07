@@ -47,7 +47,7 @@ To find the git SHA of any given release, check the latest commit in the version
 **Linux is required for building and testing DC/OS.**
 
 1. Linux distribution:
-    - Docker doesn't have all the features needed on OS X or Windows
+    - Docker doesn't hasdfdasfasdfsdfaave all the features needed on OS X or Windows
     - `tar` needs to be GNU tar for the set of flags used
     - `unzip` needs to be installed
 1. [tox](https://tox.readthedocs.org/en/latest/)
